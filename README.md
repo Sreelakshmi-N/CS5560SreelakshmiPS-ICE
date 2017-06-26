@@ -6,3 +6,5 @@ Problem set1B: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PRO
 Problem set2A: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-2A
 
 Problem set2B: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-2B
+
+Problem set3: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-3
