@@ -12,3 +12,7 @@ Problem set3: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROB
 Problem set4: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-4
 
 Problem set5: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-5
+
+Problem set6: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-6
+
+Problem set7: https://github.com/Sreelakshmi-N/CS5560SreelakshmiPS-ICE/wiki/PROBLEM-SET-7
